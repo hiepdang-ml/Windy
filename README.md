@@ -33,8 +33,8 @@ npm -v
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/hiepdang-ml/windy-electron.git
-cd windy-electron
+git clone git@github.com:hiepdang-ml/Windy.git
+cd Windy
 ```
 
 ---
